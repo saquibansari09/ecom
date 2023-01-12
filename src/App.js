@@ -7,7 +7,7 @@ import Navbar from "./Components/Navbar";
 import Services from "./Components/Services";
 import Strategy from "./Components/Strategy";
 
-// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
